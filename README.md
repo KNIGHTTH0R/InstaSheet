@@ -4,7 +4,7 @@
 ![Example](instasheet_example.gif "InstaSheet Example")
 ***
 
-* `insta_function.gs fetches data without api does not fetches likes and comment data for private account`
+* `insta_function.gs fetches data without api and does not fetches likes and comment data for private accounts`
 * `insta_function_api.gs is based on instagram api, use your API token to get data from instagram`
 
 ***
